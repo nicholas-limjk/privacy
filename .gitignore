@@ -1,0 +1,5 @@
+node_modules/
+dist/
+low-resource-bible-translation/
+*.log
+.DS_Store
